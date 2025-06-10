@@ -1,0 +1,4419 @@
+[
+  {
+    "_id": "movie_avengers_endgame2",
+    "title": "Avengers: Hồi Kết",
+    "originalTitle": "Avengers: Endgame",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fmegan-2.0.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/TcMBFSGVi1c",
+    "duration": 181,
+    "releaseDate": {
+      "$date": "2019-04-26T00:00:00.000Z"
+    },
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "ageRating": "C13",
+    "description": "Sau sự kiện Infinity War, các siêu anh hùng còn lại tập hợp để đảo ngược hành động của Thanos và khôi phục lại vũ trụ.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Marvel",
+      "Siêu anh hùng",
+      "Kết thúc"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_parasite",
+    "title": "Ký Sinh Trùng",
+    "originalTitle": "기생충",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fnam-muoi-poster.jpeg&w=1920&q=75",
+    "trailer": "https://youtu.be/5xH0HfJHsaY",
+    "duration": 132,
+    "releaseDate": {
+      "$date": "2019-05-30T00:00:00.000Z"
+    },
+    "directors": [
+      "Bong Joon-ho"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Giật Gân",
+      "Hài Đen"
+    ],
+    "ageRating": "C16",
+    "description": "Câu chuyện về gia đình nghèo Kim Ki-taek và mối quan hệ phức tạp với gia đình giàu có Park.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Oscar",
+      "Hàn Quốc",
+      "Xã hội"
+    ],
+    "isActive": true,
+    "country": "Hàn Quốc"
+  },
+  {
+    "_id": "movie_tenet",
+    "title": "Tenet",
+    "originalTitle": "Tenet",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/LdOM0x0XDMo",
+    "duration": 150,
+    "releaseDate": {
+      "$date": "2020-08-26T00:00:00.000Z"
+    },
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "Hành Động",
+      "Khoa Học Viễn Tưởng",
+      "Giật Gân"
+    ],
+    "ageRating": "C13",
+    "description": "Một đặc vụ được trang bị khả năng đảo ngược thời gian để ngăn chặn Thế chiến thứ III.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Nolan",
+      "Thời gian",
+      "Phức tạp"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_soul",
+    "title": "Linh Hồn",
+    "originalTitle": "Soul",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fholy-night-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/xOsLIiBStEs",
+    "duration": 100,
+    "releaseDate": {
+      "$date": "2020-12-25T00:00:00.000Z"
+    },
+    "directors": [
+      "Pete Docter",
+      "Kemp Powers"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Âm Nhạc"
+    ],
+    "ageRating": "P",
+    "description": "Câu chuyện về Joe Gardner, một giáo viên âm nhạc có ước mơ trở thành nghệ sĩ jazz.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Pixar",
+      "Jazz",
+      "Ý nghĩa"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_dune",
+    "title": "Hành Tinh Cát",
+    "originalTitle": "Dune",
+    "poster": "http://www.impawards.com/2025/posters/karate_kid_legends_ver2_xlg.jpg",
+    "trailer": "https://youtu.be/n9xhJrPXop4",
+    "duration": 155,
+    "releaseDate": {
+      "$date": "2021-10-22T00:00:00.000Z"
+    },
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu",
+      "Chính Kịch"
+    ],
+    "ageRating": "C13",
+    "description": "Paul Atreides dẫn dắt một cuộc nổi dậy để giải phóng hành tinh sa mạc Arrakis.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Sci-fi",
+      "Epic",
+      "Villeneuve"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_spider_man_no_way_home",
+    "title": "Người Nhện: Không Còn Nhà",
+    "originalTitle": "Spider-Man: No Way Home",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/JfVOs4VSpmA",
+    "duration": 148,
+    "releaseDate": {
+      "$date": "2021-12-17T00:00:00.000Z"
+    },
+    "directors": [
+      "Jon Watts"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "ageRating": "C13",
+    "description": "Peter Parker phải đối mặt với những kẻ thù từ các vũ trụ khác nhau.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Marvel",
+      "Multiverse",
+      "Spider-Man"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_encanto",
+    "title": "Encanto",
+    "originalTitle": "Encanto",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F07-2025%2Fxi-trum-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/CaimKeDcudo",
+    "duration": 102,
+    "releaseDate": {
+      "$date": "2021-11-24T00:00:00.000Z"
+    },
+    "directors": [
+      "Jared Bush",
+      "Byron Howard"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Âm Nhạc"
+    ],
+    "ageRating": "P",
+    "description": "Mirabel, cô gái duy nhất trong gia đình không có phép thuật, phải cứu gia đình khỏi nguy hiểm.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Disney",
+      "Gia đình",
+      "Colombia"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_batman",
+    "title": "Người Dơi",
+    "originalTitle": "The Batman",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2FMIKU.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/mqqft2x_Aa4",
+    "duration": 176,
+    "releaseDate": {
+      "$date": "2022-03-04T00:00:00.000Z"
+    },
+    "directors": [
+      "Matt Reeves"
+    ],
+    "genres": [
+      "Hành Động",
+      "Tội Phạm",
+      "Chính Kịch"
+    ],
+    "ageRating": "C13",
+    "description": "Bruce Wayne trong năm thứ hai làm Batman phải đối mặt với Riddler và tham nhũng ở Gotham.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "coming-soon",
+    "tags": [
+      "DC",
+      "Batman",
+      "Tối tăm"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_turning_red",
+    "title": "Biến Đỏ",
+    "originalTitle": "Turning Red",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/XdKzUbAiswE",
+    "duration": 100,
+    "releaseDate": {
+      "$date": "2022-03-11T00:00:00.000Z"
+    },
+    "directors": [
+      "Domee Shi"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Hài"
+    ],
+    "ageRating": "P",
+    "description": "Mei Lee, một cô gái 13 tuổi, biến thành gấu trúc đỏ khổng lồ khi quá phấn khích.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "coming-soon",
+    "tags": [
+      "Pixar",
+      "Tuổi teen",
+      "Canada"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_doctor_strange_multiverse",
+    "title": "Doctor Strange: Đa Vũ Trụ Hỗn Loạn",
+    "originalTitle": "Doctor Strange in the Multiverse of Madness",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fnam-muoi-poster.jpeg&w=1920&q=75",
+    "trailer": "https://youtu.be/aWzlQ2N6qqg",
+    "duration": 126,
+    "releaseDate": {
+      "$date": "2022-05-06T00:00:00.000Z"
+    },
+    "directors": [
+      "Sam Raimi"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Kỳ Ảo"
+    ],
+    "ageRating": "C13",
+    "description": "Doctor Strange khám phá đa vũ trụ và đối mặt với phiên bản tà ác của chính mình.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "coming-soon",
+    "tags": [
+      "Marvel",
+      "Multiverse",
+      "Horror"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_top_gun_maverick",
+    "title": "Top Gun: Maverick",
+    "originalTitle": "Top Gun: Maverick",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fmuon-hon-doat-xac.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/giXco2jaZ_4",
+    "duration": 130,
+    "releaseDate": {
+      "$date": "2022-05-27T00:00:00.000Z"
+    },
+    "directors": [
+      "Joseph Kosinski"
+    ],
+    "genres": [
+      "Hành Động",
+      "Chính Kịch"
+    ],
+    "ageRating": "C13",
+    "description": "Pete 'Maverick' Mitchell trở lại để huấn luyện thế hệ phi công mới cho một nhiệm vụ nguy hiểm.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Sequel",
+      "Tom Cruise",
+      "Máy bay"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_minions_rise_of_gru",
+    "title": "Minions: Sự Trỗi Dậy Của Gru",
+    "originalTitle": "Minions: The Rise of Gru",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/nb6qQnBqgd0",
+    "duration": 87,
+    "releaseDate": {
+      "$date": "2022-07-01T00:00:00.000Z"
+    },
+    "directors": [
+      "Kyle Balda"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Hài"
+    ],
+    "ageRating": "P",
+    "description": "Gru 12 tuổi ước mơ trở thành siêu ác nhân và được Minions giúp đỡ.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Illumination",
+      "Prequel",
+      "Gia đình"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_thor_love_thunder",
+    "title": "Thor: Tình Yêu Và Sấm Sét",
+    "originalTitle": "Thor: Love and Thunder",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/Go8nTmfrQd8",
+    "duration": 119,
+    "releaseDate": {
+      "$date": "2022-07-08T00:00:00.000Z"
+    },
+    "directors": [
+      "Taika Waititi"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Hài"
+    ],
+    "ageRating": "C13",
+    "description": "Thor tìm kiếm sự bình yên nhưng phải đối mặt với Gorr the God Butcher.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Marvel",
+      "Thor",
+      "Hài hước"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_lightyear",
+    "title": "Lightyear",
+    "originalTitle": "Lightyear",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/BwPL0Md_QFQ",
+    "duration": 105,
+    "releaseDate": {
+      "$date": "2022-06-17T00:00:00.000Z"
+    },
+    "directors": [
+      "Angus MacLane"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Phiêu Lưu",
+      "Gia Đình"
+    ],
+    "ageRating": "P",
+    "description": "Câu chuyện về Buzz Lightyear, người anh hùng đã truyền cảm hứng cho đồ chơi.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "coming-soon",
+    "tags": [
+      "Pixar",
+      "Toy Story",
+      "Space"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_nope",
+    "title": "Nope",
+    "originalTitle": "Nope",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fmegan-2.0.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/In8fuzj3gck",
+    "duration": 130,
+    "releaseDate": {
+      "$date": "2022-07-22T00:00:00.000Z"
+    },
+    "directors": [
+      "Jordan Peele"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Khoa Học Viễn Tưởng",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Hai anh em chăn ngựa phát hiện một hiện tượng kỳ lạ trên bầu trời.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "coming-soon",
+    "tags": [
+      "Jordan Peele",
+      "UFO",
+      "Western"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_black_panther_wakanda",
+    "title": "Black Panther: Wakanda Bất Diệt",
+    "originalTitle": "Black Panther: Wakanda Forever",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/_Z3QKkl1WyM",
+    "duration": 161,
+    "releaseDate": {
+      "$date": "2022-11-11T00:00:00.000Z"
+    },
+    "directors": [
+      "Ryan Coogler"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Chính Kịch"
+    ],
+    "ageRating": "C13",
+    "description": "Wakanda phải đối mặt với những thế lực muốn khai thác vibranium sau cái chết của T'Challa.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Marvel",
+      "Wakanda",
+      "Tribute"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_avatar_way_of_water",
+    "title": "Avatar: Dòng Chảy Của Nước",
+    "originalTitle": "Avatar: The Way of Water",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbi-kip-luyen-rong_1.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/d9MyW72ELq0",
+    "duration": 192,
+    "releaseDate": {
+      "$date": "2022-12-16T00:00:00.000Z"
+    },
+    "directors": [
+      "James Cameron"
+    ],
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu",
+      "Gia Đình"
+    ],
+    "ageRating": "C13",
+    "description": "Jake Sully và gia đình phải rời khỏi nhà để bảo vệ người Na'vi khỏi mối đe dọa mới.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Cameron",
+      "Pandora",
+      "Sequel"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_puss_in_boots_last_wish",
+    "title": "Mèo Đi Hia: Điều Ước Cuối Cùng",
+    "originalTitle": "Puss in Boots: The Last Wish",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbi-kip-luyen-rong_1.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/RqrXhwS33yc",
+    "duration": 102,
+    "releaseDate": {
+      "$date": "2022-12-21T00:00:00.000Z"
+    },
+    "directors": [
+      "Joel Crawford"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Phiêu Lưu",
+      "Hài"
+    ],
+    "ageRating": "P",
+    "description": "Puss in Boots tìm kiếm Wishing Star huyền thoại để khôi phục chín mạng sống của mình.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "coming-soon",
+    "tags": [
+      "DreamWorks",
+      "Shrek",
+      "Phiêu lưu"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_babylon",
+    "title": "Babylon",
+    "originalTitle": "Babylon",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fma-moc-hong.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/5muQK7CuFtw",
+    "duration": 189,
+    "releaseDate": {
+      "$date": "2022-12-23T00:00:00.000Z"
+    },
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Hài Đen"
+    ],
+    "ageRating": "C18",
+    "description": "Câu chuyện về sự thăng trầm của Hollywood trong thời kỳ chuyển từ phim câm sang phim có tiếng.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Hollywood",
+      "1920s",
+      "Epic"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_everything_everywhere_all_at_once",
+    "title": "Mọi Thứ Ở Khắp Mọi Nơi Cùng Một Lúc",
+    "originalTitle": "Everything Everywhere All at Once",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Ftrang-quynh-nhi.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/G4Qtx3bdUwU",
+    "duration": 139,
+    "releaseDate": {
+      "$date": "2022-03-25T00:00:00.000Z"
+    },
+    "directors": [
+      "Daniel Kwan",
+      "Daniel Scheinert"
+    ],
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Hài",
+      "Chính Kịch"
+    ],
+    "ageRating": "C16",
+    "description": "Một phụ nữ gốc Á phải kết nối với các phiên bản song song của mình để ngăn chặn một thế lực tà ác.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Multiverse",
+      "Indie",
+      "Absurd"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_menu",
+    "title": "Thực Đơn",
+    "originalTitle": "The Menu",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Ftrang-quynh-nhi.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/C1OiB_uldVs",
+    "duration": 107,
+    "releaseDate": {
+      "$date": "2022-11-18T00:00:00.000Z"
+    },
+    "directors": [
+      "Mark Mylod"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Giật Gân",
+      "Hài Đen"
+    ],
+    "ageRating": "C18",
+    "description": "Một cặp đôi trẻ đến một nhà hàng độc quyền trên đảo hoang và trải nghiệm thực đơn đầy bất ngờ.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Ẩm thực",
+      "Thriller",
+      "Satire"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_glass_onion",
+    "title": "Glass Onion: Bí Ẩn Knives Out",
+    "originalTitle": "Glass Onion: A Knives Out Mystery",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2FMIKU.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/qGqiHJTsRkQ",
+    "duration": 139,
+    "releaseDate": {
+      "$date": "2022-11-23T00:00:00.000Z"
+    },
+    "directors": [
+      "Rian Johnson"
+    ],
+    "genres": [
+      "Bí Ẩn",
+      "Hài",
+      "Tội Phạm"
+    ],
+    "ageRating": "C13",
+    "description": "Thám tử Benoit Blanc giải quyết một vụ án mới tại một hòn đảo riêng của Hy Lạp.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Detective",
+      "Whodunit",
+      "Sequel"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_whale",
+    "title": "Cá Voi",
+    "originalTitle": "The Whale",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fyadang-ba-mat-lat-keo.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/nWiQodhMvz4",
+    "duration": 117,
+    "releaseDate": {
+      "$date": "2022-12-09T00:00:00.000Z"
+    },
+    "directors": [
+      "Darren Aronofsky"
+    ],
+    "genres": [
+      "Chính Kịch"
+    ],
+    "ageRating": "C16",
+    "description": "Một giáo viên tiếng Anh béo phì cố gắng kết nối lại với con gái xa cách của mình.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Drama",
+      "Brendan Fraser",
+      "Redemption"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_tar",
+    "title": "Tár",
+    "originalTitle": "Tár",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F07-2025%2Fxi-trum-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/dGm00xEJpLk",
+    "duration": 158,
+    "releaseDate": {
+      "$date": "2022-10-07T00:00:00.000Z"
+    },
+    "directors": [
+      "Todd Field"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Âm Nhạc"
+    ],
+    "ageRating": "C16",
+    "description": "Lydia Tár, nhạc trưởng nổi tiếng, phải đối mặt với những cáo buộc nghiêm trọng.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Classical music",
+      "Power",
+      "Scandal"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_fabelmans",
+    "title": "Gia Đình Fabelman",
+    "originalTitle": "The Fabelmans",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/yuo9wLdUkQs",
+    "duration": 151,
+    "releaseDate": {
+      "$date": "2022-11-11T00:00:00.000Z"
+    },
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Tiểu Sử"
+    ],
+    "ageRating": "C13",
+    "description": "Câu chuyện bán tự truyện về tuổi thơ của Steven Spielberg và tình yêu điện ảnh.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Spielberg",
+      "Coming-of-age",
+      "Cinema"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_women_talking",
+    "title": "Phụ Nữ Nói Chuyện",
+    "originalTitle": "Women Talking",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fnam-muoi-poster.jpeg&w=1920&q=75",
+    "trailer": "https://youtu.be/VjKWV4uNIgI",
+    "duration": 104,
+    "releaseDate": {
+      "$date": "2022-12-02T00:00:00.000Z"
+    },
+    "directors": [
+      "Sarah Polley"
+    ],
+    "genres": [
+      "Chính Kịch"
+    ],
+    "ageRating": "C16",
+    "description": "Phụ nữ trong một cộng đồng tôn giáo thảo luận về tương lai sau khi bị tấn công.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Feminism",
+      "Religion",
+      "Trauma"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_triangle_of_sadness",
+    "title": "Tam Giác Buồn",
+    "originalTitle": "Triangle of Sadness",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fmuon-hon-doat-xac.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/A8Y6ku432bg",
+    "duration": 147,
+    "releaseDate": {
+      "$date": "2022-05-21T00:00:00.000Z"
+    },
+    "directors": [
+      "Ruben Östlund"
+    ],
+    "genres": [
+      "Hài Đen",
+      "Chính Kịch"
+    ],
+    "ageRating": "C18",
+    "description": "Một cặp đôi người mẫu tham gia chuyến du thuyền sang trọng với những khách hàng giàu có.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Cannes",
+      "Satire",
+      "Class"
+    ],
+    "isActive": true,
+    "country": "Thụy Điển"
+  },
+  {
+    "_id": "movie_decision_to_leave",
+    "title": "Quyết Định Rời Xa",
+    "originalTitle": "헤어질 결심",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/j8TlLAcVn-I",
+    "duration": 138,
+    "releaseDate": {
+      "$date": "2022-06-29T00:00:00.000Z"
+    },
+    "directors": [
+      "Park Chan-wook"
+    ],
+    "genres": [
+      "Bí Ẩn",
+      "Lãng Mạn",
+      "Tội Phạm"
+    ],
+    "ageRating": "C16",
+    "description": "Một thám tử điều tra vụ án mạng và phải lòng vợ của nạn nhân.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Park Chan-wook",
+      "Neo-noir",
+      "Romance"
+    ],
+    "isActive": true,
+    "country": "Hàn Quốc"
+  },
+  {
+    "_id": "movie_rrr",
+    "title": "RRR",
+    "originalTitle": "RRR",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-tha-ma-bat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/f_vbAtFSEc0",
+    "duration": 187,
+    "releaseDate": {
+      "$date": "2022-03-25T00:00:00.000Z"
+    },
+    "directors": [
+      "S.S. Rajamouli"
+    ],
+    "genres": [
+      "Hành Động",
+      "Chính Kịch",
+      "Lịch Sử"
+    ],
+    "ageRating": "C16",
+    "description": "Câu chuyện về tình bạn giữa hai chiến binh cách mạng trong thời kỳ thuộc địa Anh.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Bollywood",
+      "Epic",
+      "Action"
+    ],
+    "isActive": true,
+    "country": "Ấn Độ"
+  },
+  {
+    "_id": "movie_all_quiet_western_front",
+    "title": "Phía Tây Không Có Gì Lạ",
+    "originalTitle": "Im Westen nichts Neues",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbi-kip-luyen-rong_1.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/hf8EYbVxtCY",
+    "duration": 148,
+    "releaseDate": {
+      "$date": "2022-10-07T00:00:00.000Z"
+    },
+    "directors": [
+      "Edward Berger"
+    ],
+    "genres": [
+      "Chiến Tranh",
+      "Chính Kịch"
+    ],
+    "ageRating": "C16",
+    "description": "Một chàng trai trẻ Đức trải nghiệm sự tàn khốc của Thế chiến thứ nhất.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "WWI",
+      "German",
+      "Anti-war"
+    ],
+    "isActive": true,
+    "country": "Đức"
+  },
+  {
+    "_id": "movie_the_banshees_inisherin",
+    "title": "Những Banshee Của Inisherin",
+    "originalTitle": "The Banshees of Inisherin",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/uRu3zLOJN2c",
+    "duration": 114,
+    "releaseDate": {
+      "$date": "2022-10-21T00:00:00.000Z"
+    },
+    "directors": [
+      "Martin McDonagh"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Hài Đen"
+    ],
+    "ageRating": "C16",
+    "description": "Tình bạn giữa hai người đàn ông trên đảo Ireland bị đe dọa khi một người quyết định kết thúc mối quan hệ.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Ireland",
+      "Friendship",
+      "Dark comedy"
+    ],
+    "isActive": true,
+    "country": "Ireland"
+  },
+  {
+    "_id": "movie_aftersun",
+    "title": "Aftersun",
+    "originalTitle": "Aftersun",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/F3DlQbNdJQE",
+    "duration": 102,
+    "releaseDate": {
+      "$date": "2022-10-21T00:00:00.000Z"
+    },
+    "directors": [
+      "Charlotte Wells"
+    ],
+    "genres": [
+      "Chính Kịch"
+    ],
+    "ageRating": "C13",
+    "description": "Một người phụ nữ nhìn lại kỳ nghỉ cuối cùng với cha khi cô ấy còn nhỏ.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Memory",
+      "Father-daughter",
+      "Debut"
+    ],
+    "isActive": true,
+    "country": "Anh"
+  },
+  {
+    "_id": "movie_elvis",
+    "title": "Elvis",
+    "originalTitle": "Elvis",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/wV0wPBYDQ6Y",
+    "duration": 159,
+    "releaseDate": {
+      "$date": "2022-06-24T00:00:00.000Z"
+    },
+    "directors": [
+      "Baz Luhrmann"
+    ],
+    "genres": [
+      "Tiểu Sử",
+      "Chính Kịch",
+      "Âm Nhạc"
+    ],
+    "ageRating": "C13",
+    "description": "Cuộc đời và sự nghiệp của vua nhạc rock and roll Elvis Presley.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Biography",
+      "Music",
+      "Rock and roll"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_mad_god",
+    "title": "Mad God",
+    "originalTitle": "Mad God",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fballeriana.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/qs134d_dP8A",
+    "duration": 83,
+    "releaseDate": {
+      "$date": "2022-06-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Phil Tippett"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Kinh Dị",
+      "Kỳ Ảo"
+    ],
+    "ageRating": "C18",
+    "description": "Một thế giới hậu tận thế được tạo ra hoàn toàn bằng kỹ thuật stop-motion.",
+    "subtitles": "Không có thoại",
+    "status": "coming-soon",
+    "tags": [
+      "Stop-motion",
+      "Experimental",
+      "Surreal"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_bo_gia",
+    "title": "Bố Già",
+    "originalTitle": "Bố Già",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-tha-ma-bat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 128,
+    "releaseDate": {
+      "$date": "2021-03-12T00:00:00.000Z"
+    },
+    "directors": [
+      "Trấn Thành"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Gia Đình"
+    ],
+    "ageRating": "P",
+    "description": "Câu chuyện về một người cha và những hy sinh thầm lặng cho gia đình.",
+    "subtitles": "Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Gia đình",
+      "Việt Nam",
+      "Cảm động"
+    ],
+    "isActive": true,
+    "country": "Việt Nam"
+  },
+  {
+    "_id": "movie_lat_mat_48h",
+    "title": "Lật Mặt: 48H",
+    "originalTitle": "Lật Mặt: 48H",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2FMIKU.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 110,
+    "releaseDate": {
+      "$date": "2021-04-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Lý Hải"
+    ],
+    "genres": [
+      "Hành Động",
+      "Tội Phạm"
+    ],
+    "ageRating": "C16",
+    "description": "Một cảnh sát phải hoàn thành nhiệm vụ trong 48 giờ để cứu con gái.",
+    "subtitles": "Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Hành động",
+      "Việt Nam",
+      "Thriller"
+    ],
+    "isActive": true,
+    "country": "Việt Nam"
+  },
+  {
+    "_id": "movie_trang_ti",
+    "title": "Trạng Tí",
+    "originalTitle": "Trạng Tí",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fholy-night-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 95,
+    "releaseDate": {
+      "$date": "2021-01-22T00:00:00.000Z"
+    },
+    "directors": [
+      "Phan Gia Nhật Linh"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Hài"
+    ],
+    "ageRating": "P",
+    "description": "Cuộc phiêu lưu của cậu bé thông minh Trạng Tí trong thế giới cổ tích.",
+    "subtitles": "Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Hoạt hình",
+      "Việt Nam",
+      "Truyền thống"
+    ],
+    "isActive": true,
+    "country": "Việt Nam"
+  },
+  {
+    "_id": "movie_rom",
+    "title": "Ròm",
+    "originalTitle": "Ròm",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fcuon-bang-quy-am.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 102,
+    "releaseDate": {
+      "$date": "2020-10-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Trần Thanh Huy"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Tội Phạm"
+    ],
+    "ageRating": "C16",
+    "description": "Câu chuyện về một cậu bé đường phố ở Sài Gòn và cuộc sống khắc nghiệt.",
+    "subtitles": "Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Indie",
+      "Việt Nam",
+      "Xã hội"
+    ],
+    "isActive": true,
+    "country": "Việt Nam"
+  },
+  {
+    "_id": "movie_hai_phuong",
+    "title": "Hai Phượng",
+    "originalTitle": "Furie",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fdiep-quy-tan-nuong_2_.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 98,
+    "releaseDate": {
+      "$date": "2019-02-22T00:00:00.000Z"
+    },
+    "directors": [
+      "Lê Văn Kiệt"
+    ],
+    "genres": [
+      "Hành Động",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Một người mẹ đơn thân truy đuổi băng nhóm bắt cóc con gái mình.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "coming-soon",
+    "tags": [
+      "Hành động",
+      "Việt Nam",
+      "Nữ chính"
+    ],
+    "isActive": true,
+    "country": "Việt Nam"
+  },
+  {
+    "_id": "movie_song_song",
+    "title": "Song Song",
+    "originalTitle": "Song Song",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-tha-ma-bat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 115,
+    "releaseDate": {
+      "$date": "2020-11-20T00:00:00.000Z"
+    },
+    "directors": [
+      "Phan Đăng Di"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Tâm Lý"
+    ],
+    "ageRating": "C16",
+    "description": "Câu chuyện về những người phụ nữ trong xã hội hiện đại Việt Nam.",
+    "subtitles": "Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Art house",
+      "Việt Nam",
+      "Phụ nữ"
+    ],
+    "isActive": true,
+    "country": "Việt Nam"
+  },
+  {
+    "_id": "movie_canh_dong_bat_tan",
+    "title": "Cánh Đồng Bất Tận",
+    "originalTitle": "Endless Field",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fyadang-ba-mat-lat-keo.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 103,
+    "releaseDate": {
+      "$date": "2021-05-14T00:00:00.000Z"
+    },
+    "directors": [
+      "Nguyễn Phan Quang Bình"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Lãng Mạn"
+    ],
+    "ageRating": "C13",
+    "description": "Tình yêu giữa hai người trong bối cảnh nông thôn Việt Nam.",
+    "subtitles": "Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Romance",
+      "Việt Nam",
+      "Nông thôn"
+    ],
+    "isActive": true,
+    "country": "Việt Nam"
+  },
+  {
+    "_id": "movie_thang_nam_ruc_ro",
+    "title": "Tháng Năm Rực Rỡ",
+    "originalTitle": "Glorious Days",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fholy-night-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 120,
+    "releaseDate": {
+      "$date": "2018-06-15T00:00:00.000Z"
+    },
+    "directors": [
+      "Nguyễn Quang Dũng"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Lãng Mạn"
+    ],
+    "ageRating": "C13",
+    "description": "Câu chuyện tình yêu trong thời kỳ đổi mới ở Việt Nam.",
+    "subtitles": "Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Romance",
+      "Việt Nam",
+      "Thời đại"
+    ],
+    "isActive": true,
+    "country": "Việt Nam"
+  },
+  {
+    "_id": "movie_co_ba_sai_gon",
+    "title": "Cô Ba Sài Gòn",
+    "originalTitle": "The Tailor",
+    "poster": "http://www.impawards.com/2025/posters/thunderbolts_ver10_xlg.jpg",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 110,
+    "releaseDate": {
+      "$date": "2017-12-08T00:00:00.000Z"
+    },
+    "directors": [
+      "Minh Ngọc Nguyễn"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Lãng Mạn",
+      "Lịch Sử"
+    ],
+    "ageRating": "C13",
+    "description": "Câu chuyện về một cô thợ may tài năng trong Sài Gòn những năm 1960.",
+    "subtitles": "Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Period",
+      "Việt Nam",
+      "Fashion"
+    ],
+    "isActive": true,
+    "country": "Việt Nam"
+  },
+  {
+    "_id": "movie_em_chua_18",
+    "title": "Em Chưa 18",
+    "originalTitle": "Sweet 20",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-rach-mat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 98,
+    "releaseDate": {
+      "$date": "2017-12-01T00:00:00.000Z"
+    },
+    "directors": [
+      "Lê Thanh Sơn"
+    ],
+    "genres": [
+      "Hài",
+      "Lãng Mạn"
+    ],
+    "ageRating": "C13",
+    "description": "Câu chuyện hài hước về một cô gái trẻ và những tình huống dở khóc dở cười.",
+    "subtitles": "Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Comedy",
+      "Việt Nam",
+      "Teen"
+    ],
+    "isActive": true,
+    "country": "Việt Nam"
+  },
+  {
+    "_id": "movie_jackass_forever",
+    "title": "Jackass Mãi Mãi",
+    "originalTitle": "Jackass Forever",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fmuon-hon-doat-xac.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/ugQhauUEcJM",
+    "duration": 96,
+    "releaseDate": {
+      "$date": "2022-02-04T00:00:00.000Z"
+    },
+    "directors": [
+      "Jeff Tremaine"
+    ],
+    "genres": [
+      "Hài",
+      "Hành Động"
+    ],
+    "ageRating": "C18",
+    "description": "Johnny Knoxville và đội ngũ Jackass trở lại với những pha nguy hiểm và hài hước.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Stunt",
+      "Comedy",
+      "Extreme"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_scream_2022",
+    "title": "Tiếng Thét",
+    "originalTitle": "Scream",
+    "poster": "http://www.impawards.com/2025/posters/thunderbolts_ver10_xlg.jpg",
+    "trailer": "https://youtu.be/beToTslH17s",
+    "duration": 114,
+    "releaseDate": {
+      "$date": "2022-01-14T00:00:00.000Z"
+    },
+    "directors": [
+      "Matt Bettinelli-Olpin",
+      "Tyler Gillett"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Giật Gân"
+    ],
+    "ageRating": "C18",
+    "description": "Ghostface trở lại để khủng bố thị trấn Woodsboro một lần nữa.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Horror",
+      "Slasher",
+      "Sequel"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_morbius",
+    "title": "Morbius",
+    "originalTitle": "Morbius",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/oZ6iiRrz1SY",
+    "duration": 104,
+    "releaseDate": {
+      "$date": "2022-04-01T00:00:00.000Z"
+    },
+    "directors": [
+      "Daniel Espinosa"
+    ],
+    "genres": [
+      "Hành Động",
+      "Khoa Học Viễn Tưởng",
+      "Kinh Dị"
+    ],
+    "ageRating": "C13",
+    "description": "Bác sĩ Michael Morbius cố gắng chữa bệnh hiếm gặp nhưng lại biến thành ma cà rồng sống.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Sony",
+      "Marvel",
+      "Vampire"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_sonic_2",
+    "title": "Sonic 2",
+    "originalTitle": "Sonic the Hedgehog 2",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/G5kzUpWAusI",
+    "duration": 122,
+    "releaseDate": {
+      "$date": "2022-04-08T00:00:00.000Z"
+    },
+    "directors": [
+      "Jeff Fowler"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Gia Đình"
+    ],
+    "ageRating": "P",
+    "description": "Sonic hợp tác với Tails để ngăn chặn Dr. Robotnik và Knuckles.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "coming-soon",
+    "tags": [
+      "Video game",
+      "Family",
+      "Adventure"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_fantastic_beasts_3",
+    "title": "Sinh Vật Huyền Bí 3",
+    "originalTitle": "Fantastic Beasts: The Secrets of Dumbledore",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/Y9dr2zw-TXQ",
+    "duration": 142,
+    "releaseDate": {
+      "$date": "2022-04-15T00:00:00.000Z"
+    },
+    "directors": [
+      "David Yates"
+    ],
+    "genres": [
+      "Kỳ Ảo",
+      "Phiêu Lưu",
+      "Gia Đình"
+    ],
+    "ageRating": "C13",
+    "description": "Newt Scamander và đồng minh đối đầu với Grindelwald trong cuộc chiến pháp thuật.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Wizarding World",
+      "Magic",
+      "Prequel"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_oppenheimer",
+    "title": "Oppenheimer",
+    "originalTitle": "Oppenheimer",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbi-kip-luyen-rong_1.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/uYPbbksJxIg",
+    "duration": 180,
+    "releaseDate": {
+      "$date": "2023-07-21T00:00:00.000Z"
+    },
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Lịch Sử",
+      "Tiểu Sử"
+    ],
+    "ageRating": "C16",
+    "description": "Câu chuyện về J. Robert Oppenheimer, nhà vật lý lý thuyết người đã phát triển bom nguyên tử.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "IMAX",
+      "Biography",
+      "Historical"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_barbie",
+    "title": "Barbie",
+    "originalTitle": "Barbie",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F07-2025%2Fxi-trum-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/pBk4NYhWNMM",
+    "duration": 114,
+    "releaseDate": {
+      "$date": "2023-07-21T00:00:00.000Z"
+    },
+    "directors": [
+      "Greta Gerwig"
+    ],
+    "genres": [
+      "Hài",
+      "Phiêu Lưu",
+      "Kỳ Ảo"
+    ],
+    "ageRating": "C13",
+    "description": "Barbie sống trong thế giới hoàn hảo Barbieland nhưng phải đối mặt với khủng hoảng hiện thực.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Pink",
+      "Comedy",
+      "Feminist"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_guardians_galaxy_3",
+    "title": "Vệ Binh Dải Ngân Hà 3",
+    "originalTitle": "Guardians of the Galaxy Vol. 3",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fballeriana.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/u3V5KDHRQvk",
+    "duration": 150,
+    "releaseDate": {
+      "$date": "2023-05-05T00:00:00.000Z"
+    },
+    "directors": [
+      "James Gunn"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "ageRating": "C13",
+    "description": "Cuộc phiêu lưu cuối cùng của đội Vệ Binh Dải Ngân Hà với Star-Lord và đồng đội.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "coming-soon",
+    "tags": [
+      "Marvel",
+      "Finale",
+      "Emotional"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_john_wick_4",
+    "title": "John Wick 4",
+    "originalTitle": "John Wick: Chapter 4",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-rach-mat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/qEVUtrk8_B4",
+    "duration": 169,
+    "releaseDate": {
+      "$date": "2023-03-24T00:00:00.000Z"
+    },
+    "directors": [
+      "Chad Stahelski"
+    ],
+    "genres": [
+      "Hành Động",
+      "Tội Phạm",
+      "Giật Gân"
+    ],
+    "ageRating": "C18",
+    "description": "John Wick đối mặt với kẻ thù mạnh nhất từ trước đến nay và tìm cách thoát khỏi High Table.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Action",
+      "Keanu Reeves",
+      "Martial Arts"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_scream_vi",
+    "title": "Tiếng Thét 6",
+    "originalTitle": "Scream VI",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2FMIKU.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/h74AXqw4Opc",
+    "duration": 122,
+    "releaseDate": {
+      "$date": "2023-03-10T00:00:00.000Z"
+    },
+    "directors": [
+      "Matt Bettinelli-Olpin",
+      "Tyler Gillett"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Giật Gân",
+      "Bí Ẩn"
+    ],
+    "ageRating": "C18",
+    "description": "Ghostface trở lại New York để khủng bố những người sống sót từ Woodsboro.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Horror",
+      "Slasher",
+      "NYC"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_fast_x",
+    "title": "Fast X",
+    "originalTitle": "Fast X",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/32RAq6JzY-w",
+    "duration": 141,
+    "releaseDate": {
+      "$date": "2023-05-19T00:00:00.000Z"
+    },
+    "directors": [
+      "Louis Leterrier"
+    ],
+    "genres": [
+      "Hành Động",
+      "Tội Phạm",
+      "Giật Gân"
+    ],
+    "ageRating": "C13",
+    "description": "Dom Toretto và gia đình phải đối mặt với kẻ thù nguy hiểm nhất từ quá khứ.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Cars",
+      "Family",
+      "Action"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_indiana_jones_5",
+    "title": "Indiana Jones 5",
+    "originalTitle": "Indiana Jones and the Dial of Destiny",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Ftrang-quynh-nhi.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/ZVuToMilP0A",
+    "duration": 154,
+    "releaseDate": {
+      "$date": "2023-06-30T00:00:00.000Z"
+    },
+    "directors": [
+      "James Mangold"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu"
+    ],
+    "ageRating": "C13",
+    "description": "Cuộc phiêu lưu cuối cùng của nhà khảo cổ học huyền thoại Indiana Jones.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Adventure",
+      "Harrison Ford",
+      "Finale"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_transformers_rise_beasts",
+    "title": "Transformers: Quái Thú Trỗi Dậy",
+    "originalTitle": "Transformers: Rise of the Beasts",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fmegan-2.0.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/itnqEauWQZM",
+    "duration": 127,
+    "releaseDate": {
+      "$date": "2023-06-09T00:00:00.000Z"
+    },
+    "directors": [
+      "Steven Caple Jr."
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "ageRating": "C13",
+    "description": "Optimus Prime và Autobots hợp tác với Maximals để bảo vệ Trái Đất.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Robots",
+      "CGI",
+      "Action"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_little_mermaid",
+    "title": "Nàng Tiên Cá",
+    "originalTitle": "The Little Mermaid",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/kpGo2_d3oYE",
+    "duration": 135,
+    "releaseDate": {
+      "$date": "2023-05-26T00:00:00.000Z"
+    },
+    "directors": [
+      "Rob Marshall"
+    ],
+    "genres": [
+      "Gia Đình",
+      "Kỳ Ảo",
+      "Âm Nhạc"
+    ],
+    "ageRating": "P",
+    "description": "Phiên bản live-action của câu chuyện cổ tích Disney về nàng tiên cá Ariel.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Disney",
+      "Musical",
+      "Live-action"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_elemental",
+    "title": "Nguyên Tố",
+    "originalTitle": "Elemental",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbi-kip-luyen-rong_1.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/hXzcyx9V0xw",
+    "duration": 103,
+    "releaseDate": {
+      "$date": "2023-06-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Peter Sohn"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Lãng Mạn"
+    ],
+    "ageRating": "P",
+    "description": "Câu chuyện tình yêu giữa Ember (lửa) và Wade (nước) trong thành phố các nguyên tố.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Pixar",
+      "Elements",
+      "Romance"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_mission_impossible_7",
+    "title": "Nhiệm Vụ Bất Khả Thi 7",
+    "originalTitle": "Mission: Impossible – Dead Reckoning Part One",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fnam-muoi-poster.jpeg&w=1920&q=75",
+    "trailer": "https://youtu.be/avz06PDqDbM",
+    "duration": 163,
+    "releaseDate": {
+      "$date": "2023-07-12T00:00:00.000Z"
+    },
+    "directors": [
+      "Christopher McQuarrie"
+    ],
+    "genres": [
+      "Hành Động",
+      "Giật Gân",
+      "Phiêu Lưu"
+    ],
+    "ageRating": "C13",
+    "description": "Ethan Hunt và đội IMF đối mặt với mối đe dọa AI nguy hiểm nhất từ trước đến nay.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Tom Cruise",
+      "Stunts",
+      "AI"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_ant_man_3",
+    "title": "Ant-Man 3",
+    "originalTitle": "Ant-Man and the Wasp: Quantumania",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fnam-muoi-poster.jpeg&w=1920&q=75",
+    "trailer": "https://youtu.be/ZlNFpri-Y40",
+    "duration": 124,
+    "releaseDate": {
+      "$date": "2023-02-17T00:00:00.000Z"
+    },
+    "directors": [
+      "Peyton Reed"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "ageRating": "C13",
+    "description": "Scott Lang và gia đình khám phá Quantum Realm và đối mặt với Kang the Conqueror.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Marvel",
+      "Quantum",
+      "Kang"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_cocaine_bear",
+    "title": "Gấu Cocaine",
+    "originalTitle": "Cocaine Bear",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fdiep-quy-tan-nuong_2_.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/DuKOuuaDJXs",
+    "duration": 95,
+    "releaseDate": {
+      "$date": "2023-02-24T00:00:00.000Z"
+    },
+    "directors": [
+      "Elizabeth Banks"
+    ],
+    "genres": [
+      "Hài",
+      "Giật Gân",
+      "Tội Phạm"
+    ],
+    "ageRating": "C18",
+    "description": "Một con gấu đen ăn phải cocaine và trở nên hung dữ, tấn công mọi người trong rừng.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Dark comedy",
+      "True story",
+      "Wild"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_creed_3",
+    "title": "Creed 3",
+    "originalTitle": "Creed III",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fholy-night-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/AHmCH7iB_IM",
+    "duration": 116,
+    "releaseDate": {
+      "$date": "2023-03-03T00:00:00.000Z"
+    },
+    "directors": [
+      "Michael B. Jordan"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Thể Thao"
+    ],
+    "ageRating": "C13",
+    "description": "Adonis Creed phải đối mặt với người bạn thời thơ ấu trở thành đối thủ trong võ đài.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Boxing",
+      "Drama",
+      "Friendship"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_shazam_2",
+    "title": "Shazam! 2",
+    "originalTitle": "Shazam! Fury of the Gods",
+    "poster": "http://www.impawards.com/2025/posters/karate_kid_legends_ver2_xlg.jpg",
+    "trailer": "https://youtu.be/AIc671o8bNs",
+    "duration": 130,
+    "releaseDate": {
+      "$date": "2023-03-17T00:00:00.000Z"
+    },
+    "directors": [
+      "David F. Sandberg"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Hài"
+    ],
+    "ageRating": "C13",
+    "description": "Billy Batson và gia đình Foster phải đối mặt với các nữ thần cổ đại tìm cách trả thù.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "DC",
+      "Family",
+      "Magic"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_65",
+    "title": "65",
+    "originalTitle": "65",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fmuon-hon-doat-xac.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/bHXejJq5vr0",
+    "duration": 93,
+    "releaseDate": {
+      "$date": "2023-03-10T00:00:00.000Z"
+    },
+    "directors": [
+      "Scott Beck",
+      "Bryan Woods"
+    ],
+    "genres": [
+      "Hành Động",
+      "Khoa Học Viễn Tưởng",
+      "Giật Gân"
+    ],
+    "ageRating": "C13",
+    "description": "Một phi hành gia ngoài hành tinh bị mắc kẹt trên Trái Đất 65 triệu năm trước với khủng long.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Dinosaurs",
+      "Survival",
+      "Sci-fi"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_evil_dead_rise",
+    "title": "Quỷ Dữ Trỗi Dậy",
+    "originalTitle": "Evil Dead Rise",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fyadang-ba-mat-lat-keo.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/BuPmq7yjDnI",
+    "duration": 96,
+    "releaseDate": {
+      "$date": "2023-04-21T00:00:00.000Z"
+    },
+    "directors": [
+      "Lee Cronin"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Giật Gân"
+    ],
+    "ageRating": "C18",
+    "description": "Hai chị em phải chiến đấu để sống sót khi quỷ dữ xâm nhập vào tòa nhà chung cư.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Horror",
+      "Gore",
+      "Demons"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_super_mario_bros",
+    "title": "Anh Em Nhà Super Mario",
+    "originalTitle": "The Super Mario Bros. Movie",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/TnGl01FkMMo",
+    "duration": 92,
+    "releaseDate": {
+      "$date": "2023-04-05T00:00:00.000Z"
+    },
+    "directors": [
+      "Aaron Horvath",
+      "Michael Jelenic"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Phiêu Lưu"
+    ],
+    "ageRating": "P",
+    "description": "Mario và Luigi phiêu lưu trong Mushroom Kingdom để cứu Princess Peach khỏi Bowser.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Nintendo",
+      "Video game",
+      "Adventure"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_dungeons_dragons",
+    "title": "Dungeons & Dragons",
+    "originalTitle": "Dungeons & Dragons: Honor Among Thieves",
+    "poster": "http://www.impawards.com/2025/posters/thunderbolts_ver10_xlg.jpg",
+    "trailer": "https://youtu.be/-iuOjZZwECE",
+    "duration": 134,
+    "releaseDate": {
+      "$date": "2023-03-31T00:00:00.000Z"
+    },
+    "directors": [
+      "Jonathan Goldstein",
+      "John Francis Daley"
+    ],
+    "genres": [
+      "Phiêu Lưu",
+      "Hài",
+      "Kỳ Ảo"
+    ],
+    "ageRating": "C13",
+    "description": "Một nhóm kẻ trộm lên kế hoạch cướp kho báu để cứu con gái của thủ lĩnh.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Fantasy",
+      "Adventure",
+      "Comedy"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_air",
+    "title": "Air",
+    "originalTitle": "Air",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fballeriana.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/Niy5hTBLn9s",
+    "duration": 111,
+    "releaseDate": {
+      "$date": "2023-04-05T00:00:00.000Z"
+    },
+    "directors": [
+      "Ben Affleck"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Tiểu Sử",
+      "Thể Thao"
+    ],
+    "ageRating": "C13",
+    "description": "Câu chuyện về việc Nike tạo ra dòng giày Air Jordan với Michael Jordan.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Basketball",
+      "Business",
+      "1980s"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_renfield",
+    "title": "Renfield",
+    "originalTitle": "Renfield",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/6iBhp7OoXnU",
+    "duration": 93,
+    "releaseDate": {
+      "$date": "2023-04-14T00:00:00.000Z"
+    },
+    "directors": [
+      "Chris McKay"
+    ],
+    "genres": [
+      "Hài",
+      "Kinh Dị",
+      "Hành Động"
+    ],
+    "ageRating": "C16",
+    "description": "Người hầu trung thành của Dracula muốn thoát khỏi mối quan hệ độc hại với chủ nhân.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Vampire",
+      "Comedy",
+      "Nicolas Cage"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_are_you_there_god",
+    "title": "Chúa Ơi, Con Đây",
+    "originalTitle": "Are You There God? It's Me, Margaret",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fmuon-hon-doat-xac.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/3jQXFKZJJXE",
+    "duration": 106,
+    "releaseDate": {
+      "$date": "2023-04-28T00:00:00.000Z"
+    },
+    "directors": [
+      "Kelly Fremon Craig"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Gia Đình"
+    ],
+    "ageRating": "C13",
+    "description": "Margaret Simon, 11 tuổi, chuyển đến nơi ở mới và đối mặt với những thay đổi của tuổi dậy thì.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Coming-of-age",
+      "Family",
+      "Adaptation"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_book_club_next_chapter",
+    "title": "Câu Lạc Bộ Sách 2",
+    "originalTitle": "Book Club: The Next Chapter",
+    "poster": "http://www.impawards.com/2025/posters/karate_kid_legends_ver2_xlg.jpg",
+    "trailer": "https://youtu.be/vFJZl7xhJZs",
+    "duration": 107,
+    "releaseDate": {
+      "$date": "2023-05-12T00:00:00.000Z"
+    },
+    "directors": [
+      "Bill Holderman"
+    ],
+    "genres": [
+      "Hài",
+      "Lãng Mạn"
+    ],
+    "ageRating": "C13",
+    "description": "Bốn người bạn thân đi du lịch Italy để kỷ niệm độc thân cuối cùng của Vivian.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Friendship",
+      "Italy",
+      "Romance"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_hypnotic",
+    "title": "Thôi Miên",
+    "originalTitle": "Hypnotic",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-rach-mat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/1RXUvR5w_Jk",
+    "duration": 93,
+    "releaseDate": {
+      "$date": "2023-05-12T00:00:00.000Z"
+    },
+    "directors": [
+      "Robert Rodriguez"
+    ],
+    "genres": [
+      "Hành Động",
+      "Bí Ẩn",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Một thám tử phát hiện ra âm mưu liên quan đến những người có khả năng thôi miên.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Mind control",
+      "Thriller",
+      "Ben Affleck"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_machine",
+    "title": "Cỗ Máy",
+    "originalTitle": "The Machine",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/paG1-lPtIXA",
+    "duration": 112,
+    "releaseDate": {
+      "$date": "2023-05-26T00:00:00.000Z"
+    },
+    "directors": [
+      "Peter Atencio"
+    ],
+    "genres": [
+      "Hài",
+      "Hành Động"
+    ],
+    "ageRating": "C16",
+    "description": "Bert Kreischer phải đối mặt với quá khứ khi gia đình bị bắt cóc bởi những tên tội phạm Nga.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Comedy",
+      "Action",
+      "Russia"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_kandahar",
+    "title": "Kandahar",
+    "originalTitle": "Kandahar",
+    "poster": "http://www.impawards.com/2025/posters/thunderbolts_ver10_xlg.jpg",
+    "trailer": "https://youtu.be/Jn9Jz5hOCCE",
+    "duration": 119,
+    "releaseDate": {
+      "$date": "2023-05-26T00:00:00.000Z"
+    },
+    "directors": [
+      "Ric Roman Waugh"
+    ],
+    "genres": [
+      "Hành Động",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Một đặc vụ CIA phải trốn thoát khỏi Afghanistan sau khi danh tính bị lộ.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "War",
+      "Thriller",
+      "Gerard Butler"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_about_my_father",
+    "title": "Về Cha Tôi",
+    "originalTitle": "About My Father",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fdiep-quy-tan-nuong_2_.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/KHi1zOPKLBE",
+    "duration": 90,
+    "releaseDate": {
+      "$date": "2023-05-26T00:00:00.000Z"
+    },
+    "directors": [
+      "Laura Terruso"
+    ],
+    "genres": [
+      "Hài",
+      "Gia Đình"
+    ],
+    "ageRating": "C13",
+    "description": "Sebastian mang cha mình đến gặp gia đình bạn gái giàu có với những tình huống hài hước.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Family",
+      "Comedy",
+      "Culture clash"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_boogeyman",
+    "title": "Boogeyman",
+    "originalTitle": "The Boogeyman",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/pn4ByqNU6Gs",
+    "duration": 98,
+    "releaseDate": {
+      "$date": "2023-06-02T00:00:00.000Z"
+    },
+    "directors": [
+      "Rob Savage"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Một gia đình phải đối mặt với thực thể tà ác ăn nỗi sợ hại của con người.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Stephen King",
+      "Horror",
+      "Family"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_asteroid_city",
+    "title": "Thành Phố Thiên Thạch",
+    "originalTitle": "Asteroid City",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/8N_PQyaLTPE",
+    "duration": 105,
+    "releaseDate": {
+      "$date": "2023-06-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Wes Anderson"
+    ],
+    "genres": [
+      "Hài",
+      "Chính Kịch",
+      "Lãng Mạn"
+    ],
+    "ageRating": "C13",
+    "description": "Các sự kiện diễn ra trong một thị trấn sa mạc Mỹ những năm 1950 bị gián đoạn bởi sự kiện bí ẩn.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Wes Anderson",
+      "Quirky",
+      "1950s"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_flash",
+    "title": "The Flash",
+    "originalTitle": "The Flash",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/hebWYacbdvc",
+    "duration": 144,
+    "releaseDate": {
+      "$date": "2023-06-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Andy Muschietti"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "ageRating": "C13",
+    "description": "Barry Allen du hành thời gian để ngăn chặn cái chết của mẹ nhưng tạo ra hậu quả khôn lường.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "coming-soon",
+    "tags": [
+      "DC",
+      "Time travel",
+      "Multiverse"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_no_hard_feelings",
+    "title": "Không Có Gì Cá Nhân",
+    "originalTitle": "No Hard Feelings",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fmuon-hon-doat-xac.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/cq2iTsKZmVo",
+    "duration": 103,
+    "releaseDate": {
+      "$date": "2023-06-23T00:00:00.000Z"
+    },
+    "directors": [
+      "Gene Stupnitsky"
+    ],
+    "genres": [
+      "Hài",
+      "Lãng Mạn"
+    ],
+    "ageRating": "C16",
+    "description": "Một phụ nữ được thuê để quyến rũ một cậu bé nhút nhát trước khi cậu vào đại học.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Comedy",
+      "Jennifer Lawrence",
+      "Coming-of-age"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_ruby_gillman",
+    "title": "Ruby Gillman: Công Chúa Kraken",
+    "originalTitle": "Ruby Gillman, Teenage Kraken",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-rach-mat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/5dpnZOmWJWU",
+    "duration": 91,
+    "releaseDate": {
+      "$date": "2023-06-30T00:00:00.000Z"
+    },
+    "directors": [
+      "Kirk DeMicco"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Phiêu Lưu"
+    ],
+    "ageRating": "P",
+    "description": "Một cô gái tuổi teen phát hiện ra mình là công chúa của vương quốc Kraken dưới đại dương.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "DreamWorks",
+      "Ocean",
+      "Teen"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_insidious_red_door",
+    "title": "Quỷ Quyệt: Cánh Cửa Đỏ",
+    "originalTitle": "Insidious: The Red Door",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Ftrang-quynh-nhi.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/xIKKOLfHUNE",
+    "duration": 107,
+    "releaseDate": {
+      "$date": "2023-07-07T00:00:00.000Z"
+    },
+    "directors": [
+      "Patrick Wilson"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Josh Lambert phải đối mặt với quỷ dữ từ The Further một lần nữa để bảo vệ gia đình.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Horror",
+      "Supernatural",
+      "Sequel"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_sound_of_freedom",
+    "title": "Âm Thanh Tự Do",
+    "originalTitle": "Sound of Freedom",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/lDkzYgbdVdM",
+    "duration": 131,
+    "releaseDate": {
+      "$date": "2023-07-04T00:00:00.000Z"
+    },
+    "directors": [
+      "Alejandro Monteverde"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Tiểu Sử",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Câu chuyện có thật về Tim Ballard, cựu đặc vụ chính phủ cứu trẻ em khỏi nạn buôn người.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "True story",
+      "Human trafficking",
+      "Rescue"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_talk_to_me",
+    "title": "Nói Chuyện Với Tôi",
+    "originalTitle": "Talk to Me",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/aLAKJu9aJys",
+    "duration": 95,
+    "releaseDate": {
+      "$date": "2023-07-28T00:00:00.000Z"
+    },
+    "directors": [
+      "Danny Philippou",
+      "Michael Philippou"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Giật Gân"
+    ],
+    "ageRating": "C18",
+    "description": "Một nhóm bạn trẻ khám phá cách giao tiếp với linh hồn thông qua một bàn tay gỗ bí ẩn.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Supernatural",
+      "Australian",
+      "Teen"
+    ],
+    "isActive": true,
+    "country": "Úc"
+  },
+  {
+    "_id": "movie_teenage_mutant_ninja_turtles",
+    "title": "Ninja Rùa: Hỗn Loạn Đột Biến",
+    "originalTitle": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fma-moc-hong.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/Ep3pckXMDcI",
+    "duration": 99,
+    "releaseDate": {
+      "$date": "2023-08-02T00:00:00.000Z"
+    },
+    "directors": [
+      "Jeff Rowe"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Hành Động",
+      "Hài"
+    ],
+    "ageRating": "P",
+    "description": "Bốn anh em rùa ninja teen phải cứu New York khỏi một quân đội các sinh vật đột biến.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "TMNT",
+      "Animation",
+      "Action"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_meg_2",
+    "title": "Cá Mập Siêu Bạo Chúa 2",
+    "originalTitle": "Meg 2: The Trench",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fma-moc-hong.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/dG91B3hHyY4",
+    "duration": 116,
+    "releaseDate": {
+      "$date": "2023-08-04T00:00:00.000Z"
+    },
+    "directors": [
+      "Ben Wheatley"
+    ],
+    "genres": [
+      "Hành Động",
+      "Khoa Học Viễn Tưởng",
+      "Giật Gân"
+    ],
+    "ageRating": "C13",
+    "description": "Jonas Taylor phải đối mặt với nhiều con Megalodon và các sinh vật biển cổ đại khác.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Sharks",
+      "Action",
+      "Ocean"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_heart_of_stone",
+    "title": "Trái Tim Đá",
+    "originalTitle": "Heart of Stone",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Ftrang-quynh-nhi.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/XuDwndGaCFo",
+    "duration": 122,
+    "releaseDate": {
+      "$date": "2023-08-11T00:00:00.000Z"
+    },
+    "directors": [
+      "Tom Harper"
+    ],
+    "genres": [
+      "Hành Động",
+      "Giật Gân"
+    ],
+    "ageRating": "C13",
+    "description": "Đặc vụ Rachel Stone phải bảo vệ vũ khí bí mật khỏi tay những kẻ muốn sử dụng nó để gây hại.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Spy",
+      "Action",
+      "Gal Gadot"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_blue_beetle",
+    "title": "Bọ Hung Xanh",
+    "originalTitle": "Blue Beetle",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Ftrang-quynh-nhi.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/vS3_72Gb-bI",
+    "duration": 127,
+    "releaseDate": {
+      "$date": "2023-08-18T00:00:00.000Z"
+    },
+    "directors": [
+      "Ángel Manuel Soto"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "ageRating": "C13",
+    "description": "Jaime Reyes trở thành siêu anh hùng khi một sinh vật ngoài hành tinh gắn vào cơ thể cậu.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "DC",
+      "Latino",
+      "Family"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_strays",
+    "title": "Những Chú Chó Hoang",
+    "originalTitle": "Strays",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2FMIKU.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/1HrVGCOl7MA",
+    "duration": 93,
+    "releaseDate": {
+      "$date": "2023-08-18T00:00:00.000Z"
+    },
+    "directors": [
+      "Josh Greenbaum"
+    ],
+    "genres": [
+      "Hài",
+      "Phiêu Lưu"
+    ],
+    "ageRating": "C18",
+    "description": "Một chú chó bị bỏ rơi tập hợp đồng bọn để trả thù chủ cũ tàn nhẫn.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Dogs",
+      "R-rated",
+      "Comedy"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_gran_turismo",
+    "title": "Gran Turismo",
+    "originalTitle": "Gran Turismo",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fyadang-ba-mat-lat-keo.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/GVPzGBvPrzw",
+    "duration": 134,
+    "releaseDate": {
+      "$date": "2023-08-25T00:00:00.000Z"
+    },
+    "directors": [
+      "Neill Blomkamp"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Thể Thao",
+      "Hành Động"
+    ],
+    "ageRating": "C13",
+    "description": "Câu chuyện có thật về game thủ trở thành tay đua chuyên nghiệp thông qua chương trình GT Academy.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Racing",
+      "True story",
+      "Video game"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_equalizer_3",
+    "title": "Kẻ Báo Thù 3",
+    "originalTitle": "The Equalizer 3",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-tha-ma-bat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/19ikl8vy4zs",
+    "duration": 109,
+    "releaseDate": {
+      "$date": "2023-09-01T00:00:00.000Z"
+    },
+    "directors": [
+      "Antoine Fuqua"
+    ],
+    "genres": [
+      "Hành Động",
+      "Tội Phạm",
+      "Giật Gân"
+    ],
+    "ageRating": "C18",
+    "description": "Robert McCall tìm thấy sự bình yên ở miền nam Italy nhưng phải bảo vệ bạn bè khỏi mafia địa phương.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Action",
+      "Denzel Washington",
+      "Italy"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_my_big_fat_greek_wedding_3",
+    "title": "Đám Cưới Hy Lạp Của Tôi 3",
+    "originalTitle": "My Big Fat Greek Wedding 3",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F07-2025%2Fxi-trum-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/KPJp3RME4nE",
+    "duration": 92,
+    "releaseDate": {
+      "$date": "2023-09-08T00:00:00.000Z"
+    },
+    "directors": [
+      "Nia Vardalos"
+    ],
+    "genres": [
+      "Hài",
+      "Lãng Mạn",
+      "Gia Đình"
+    ],
+    "ageRating": "C13",
+    "description": "Gia đình Portokalos du lịch Hy Lạp để tham dự đoàn tụ gia đình và hoàn thành di nguyện của gia trưởng.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Family",
+      "Greece",
+      "Comedy"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_nun_2",
+    "title": "Ác Quỷ Ma Sơ 2",
+    "originalTitle": "The Nun II",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fdiep-quy-tan-nuong_2_.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/QF-oyCwaArU",
+    "duration": 110,
+    "releaseDate": {
+      "$date": "2023-09-08T00:00:00.000Z"
+    },
+    "directors": [
+      "Michael Chaves"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Bí Ẩn",
+      "Giật Gân"
+    ],
+    "ageRating": "C18",
+    "description": "Sister Irene phải đối mặt với Valak một lần nữa khi ác quỷ trở lại để khủng bố một trường nội trú.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Horror",
+      "Conjuring Universe",
+      "Demon"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_a_haunting_in_venice",
+    "title": "Án Mạng Ở Venice",
+    "originalTitle": "A Haunting in Venice",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fholy-night-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/yEddsSwweyE",
+    "duration": 103,
+    "releaseDate": {
+      "$date": "2023-09-15T00:00:00.000Z"
+    },
+    "directors": [
+      "Kenneth Branagh"
+    ],
+    "genres": [
+      "Bí Ẩn",
+      "Giật Gân",
+      "Chính Kịch"
+    ],
+    "ageRating": "C13",
+    "description": "Thám tử Hercule Poirot điều tra vụ án mạng trong một biệt thự ma ám ở Venice.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Agatha Christie",
+      "Detective",
+      "Venice"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_expend4bles",
+    "title": "Biệt Đội Đánh Thuê 4",
+    "originalTitle": "Expend4bles",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbi-kip-luyen-rong_1.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/DhlaBO0pc_4",
+    "duration": 103,
+    "releaseDate": {
+      "$date": "2023-09-22T00:00:00.000Z"
+    },
+    "directors": [
+      "Scott Waugh"
+    ],
+    "genres": [
+      "Hành Động",
+      "Giật Gân",
+      "Phiêu Lưu"
+    ],
+    "ageRating": "C16",
+    "description": "Đội Expendables phải ngăn chặn một tên tội phạm quốc tế sở hữu vũ khí hạt nhân.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Action",
+      "Stallone",
+      "Mercenaries"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_paw_patrol_mighty_movie",
+    "title": "Paw Patrol: Siêu Phim",
+    "originalTitle": "PAW Patrol: The Mighty Movie",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/s8DjOLdHRZE",
+    "duration": 88,
+    "releaseDate": {
+      "$date": "2023-09-29T00:00:00.000Z"
+    },
+    "directors": [
+      "Cal Brunker"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Phiêu Lưu"
+    ],
+    "ageRating": "P",
+    "description": "Đội Paw Patrol có được siêu năng lực từ thiên thạch và phải cứu Adventure City.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Kids",
+      "Superhero",
+      "Dogs"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_saw_x",
+    "title": "Lưỡi Cưa 10",
+    "originalTitle": "Saw X",
+    "poster": "http://www.impawards.com/2025/posters/karate_kid_legends_ver2_xlg.jpg",
+    "trailer": "https://youtu.be/ckcZbGbZeKs",
+    "duration": 118,
+    "releaseDate": {
+      "$date": "2023-09-29T00:00:00.000Z"
+    },
+    "directors": [
+      "Kevin Greutert"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Bí Ẩn",
+      "Tội Phạm"
+    ],
+    "ageRating": "C18",
+    "description": "John Kramer du hành Mexico để tìm kiếm phương pháp chữa ung thư thực nghiệm nhưng bị lừa đảo.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Horror",
+      "Jigsaw",
+      "Traps"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_creator",
+    "title": "Đấng Sáng Tạo",
+    "originalTitle": "The Creator",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/ex3C1-5Dhb8",
+    "duration": 133,
+    "releaseDate": {
+      "$date": "2023-09-29T00:00:00.000Z"
+    },
+    "directors": [
+      "Gareth Edwards"
+    ],
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Hành Động",
+      "Giật Gân"
+    ],
+    "ageRating": "C13",
+    "description": "Trong tương lai, một cựu binh được giao nhiệm vụ tìm và tiêu diệt Đấng Sáng Tạo, kiến trúc sư của AI tiên tiến.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "AI",
+      "Future",
+      "War"
+    ],
+    "isActive": true,
+    "country": "Mỹ"
+  },
+  {
+    "_id": "movie_the_scent_green_papaya",
+    "title": "Mùi Đu Đủ Xanh",
+    "originalTitle": "L'Odeur de la papaye verte",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fballeriana.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/xQ7kn2-GEmM",
+    "duration": 104,
+    "releaseDate": {
+      "$date": "1993-06-08T00:00:00.000Z"
+    },
+    "directors": [
+      "Trần Anh Hùng"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Lãng Mạn"
+    ],
+    "ageRating": "P",
+    "description": "Câu chuyện về một cô hầu gái trẻ trong gia đình Sài Gòn những năm 1950.",
+    "subtitles": "Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Việt Nam",
+      "Cannes",
+      "Poetic"
+    ],
+    "isActive": true,
+    "country": "Việt Nam",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_goodbye_mother",
+    "title": "Thưa Mẹ Con Đi",
+    "originalTitle": "Goodbye Mother",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fdiep-quy-tan-nuong_2_.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 106,
+    "releaseDate": {
+      "$date": "2019-05-17T00:00:00.000Z"
+    },
+    "directors": [
+      "Trịnh Đình Lê Minh"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Gia Đình"
+    ],
+    "ageRating": "C13",
+    "description": "Một người đàn ông trở về nhà với bạn trai người Mỹ để gặp gia đình.",
+    "subtitles": "Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "LGBTQ+",
+      "Việt Nam",
+      "Family"
+    ],
+    "isActive": true,
+    "country": "Việt Nam",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_owl_sparrow",
+    "title": "Cú Và Chim Se Sẻ",
+    "originalTitle": "Owl and the Sparrow",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fholy-night-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 97,
+    "releaseDate": {
+      "$date": "2007-01-19T00:00:00.000Z"
+    },
+    "directors": [
+      "Stephane Gauger"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Gia Đình"
+    ],
+    "ageRating": "P",
+    "description": "Ba người lạ tạo thành một gia đình độc đáo ở Sài Gòn hiện đại.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "coming-soon",
+    "tags": [
+      "Saigon",
+      "Family",
+      "Heartwarming"
+    ],
+    "isActive": true,
+    "country": "Việt Nam",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_bitcoin_heist",
+    "title": "Phi Vụ Bitcoin",
+    "originalTitle": "Bitcoin Heist",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbi-kip-luyen-rong_1.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 110,
+    "releaseDate": {
+      "$date": "2016-12-30T00:00:00.000Z"
+    },
+    "directors": [
+      "Ham Tran"
+    ],
+    "genres": [
+      "Hành Động",
+      "Tội Phạm",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Một đặc vụ Interpol tập hợp đội hacker để thực hiện vụ cướp tiền điện tử.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Heist",
+      "Cryptocurrency",
+      "Action"
+    ],
+    "isActive": true,
+    "country": "Việt Nam",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_sword_assassin",
+    "title": "Kiếm Sĩ Báo Thù",
+    "originalTitle": "Sword of the Assassin",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 103,
+    "releaseDate": {
+      "$date": "2012-11-30T00:00:00.000Z"
+    },
+    "directors": [
+      "Victor Vu"
+    ],
+    "genres": [
+      "Hành Động",
+      "Lịch Sử",
+      "Chính Kịch"
+    ],
+    "ageRating": "C16",
+    "description": "Người sống sót duy nhất của gia đình bị xử tử tìm cách báo thù và minh oan.",
+    "subtitles": "Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Historical",
+      "Revenge",
+      "Martial Arts"
+    ],
+    "isActive": true,
+    "country": "Việt Nam",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_clash",
+    "title": "Đối Đầu",
+    "originalTitle": "Clash",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fcuon-bang-quy-am.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 90,
+    "releaseDate": {
+      "$date": "2009-12-18T00:00:00.000Z"
+    },
+    "directors": [
+      "Le Thanh Son"
+    ],
+    "genres": [
+      "Hành Động",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Hai lính đánh thuê có cùng mục tiêu nhưng động cơ khác nhau.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Mercenary",
+      "Action",
+      "Thriller"
+    ],
+    "isActive": true,
+    "country": "Việt Nam",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_once_upon_vietnam",
+    "title": "Ngày Xưa Có Một Chuyện Tình",
+    "originalTitle": "Once Upon a Time in Vietnam",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-tha-ma-bat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 102,
+    "releaseDate": {
+      "$date": "2013-08-23T00:00:00.000Z"
+    },
+    "directors": [
+      "Dustin Nguyen"
+    ],
+    "genres": [
+      "Hành Động",
+      "Chính Kịch"
+    ],
+    "ageRating": "C16",
+    "description": "Một cảnh sát được giao nhiệm vụ bảo vệ thị trấn nhỏ ở Việt Nam.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Western",
+      "Vietnam",
+      "Action"
+    ],
+    "isActive": true,
+    "country": "Việt Nam",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_tam_cam_untold",
+    "title": "Tấm Cám: Chuyện Chưa Kể",
+    "originalTitle": "Tam Cam: The Untold Story",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 116,
+    "releaseDate": {
+      "$date": "2016-08-19T00:00:00.000Z"
+    },
+    "directors": [
+      "Veronica Ngo"
+    ],
+    "genres": [
+      "Kỳ Ảo",
+      "Kinh Dị",
+      "Chính Kịch"
+    ],
+    "ageRating": "C16",
+    "description": "Phiên bản kinh dị của truyện cổ tích Tấm Cám nổi tiếng.",
+    "subtitles": "Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Fairy tale",
+      "Horror",
+      "Vietnamese folklore"
+    ],
+    "isActive": true,
+    "country": "Việt Nam",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_bad_blood_2023",
+    "title": "Máu Xấu",
+    "originalTitle": "Bad Blood",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fma-moc-hong.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 99,
+    "releaseDate": {
+      "$date": "2023-03-10T00:00:00.000Z"
+    },
+    "directors": [
+      "Bui Thac Chuyen"
+    ],
+    "genres": [
+      "Hành Động",
+      "Tội Phạm",
+      "Giật Gân"
+    ],
+    "ageRating": "C18",
+    "description": "Một tên côn đồ khét tiếng phải trở lại thế giới ngầm để tìm con gái riêng.",
+    "subtitles": "Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Crime",
+      "Underworld",
+      "Family"
+    ],
+    "isActive": true,
+    "country": "Việt Nam",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_578_magnum",
+    "title": "578 Magnum",
+    "originalTitle": "578 Magnum",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F07-2025%2Fxi-trum-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/miUjcCPpVGo",
+    "duration": 95,
+    "releaseDate": {
+      "$date": "2022-04-29T00:00:00.000Z"
+    },
+    "directors": [
+      "Luu Huynh"
+    ],
+    "genres": [
+      "Hành Động",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Một tài xế xe tải truy đuổi kẻ bắt cóc con gái mình.",
+    "subtitles": "Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Rescue",
+      "Action",
+      "Father"
+    ],
+    "isActive": true,
+    "country": "Việt Nam",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_the_godfather",
+    "title": "Bố Già",
+    "originalTitle": "The Godfather",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fyadang-ba-mat-lat-keo.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/sY1S34973zA",
+    "duration": 175,
+    "releaseDate": {
+      "$date": "1972-03-24T00:00:00.000Z"
+    },
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Tội Phạm"
+    ],
+    "ageRating": "C16",
+    "description": "Câu chuyện về gia đình mafia Corleone và sự chuyển giao quyền lực.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Classic",
+      "Mafia",
+      "Epic"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_shawshank_redemption",
+    "title": "Nhà Tù Shawshank",
+    "originalTitle": "The Shawshank Redemption",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fma-moc-hong.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/6hB3S9bIaco",
+    "duration": 142,
+    "releaseDate": {
+      "$date": "1994-09-23T00:00:00.000Z"
+    },
+    "directors": [
+      "Frank Darabont"
+    ],
+    "genres": [
+      "Chính Kịch"
+    ],
+    "ageRating": "C13",
+    "description": "Câu chuyện về tình bạn và hy vọng trong nhà tù Shawshank.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Hope",
+      "Friendship",
+      "Prison"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_schindlers_list",
+    "title": "Danh Sách Schindler",
+    "originalTitle": "Schindler's List",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2FMIKU.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/gG22XNhtnoY",
+    "duration": 195,
+    "releaseDate": {
+      "$date": "1993-12-15T00:00:00.000Z"
+    },
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Lịch Sử",
+      "Tiểu Sử"
+    ],
+    "ageRating": "C16",
+    "description": "Câu chuyện có thật về Oskar Schindler cứu người Do Thái khỏi Holocaust.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Holocaust",
+      "Hero",
+      "Historical"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_raging_bull",
+    "title": "Bò Tót Nổi Điên",
+    "originalTitle": "Raging Bull",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fmegan-2.0.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/7HZVsi7yH_U",
+    "duration": 129,
+    "releaseDate": {
+      "$date": "1980-11-14T00:00:00.000Z"
+    },
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Thể Thao",
+      "Tiểu Sử"
+    ],
+    "ageRating": "C18",
+    "description": "Cuộc đời của võ sĩ quyền Anh Jake LaMotta và sự sa đọa của ông.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Boxing",
+      "Biography",
+      "Scorsese"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_casablanca",
+    "title": "Casablanca",
+    "originalTitle": "Casablanca",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbi-kip-luyen-rong_1.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/BkL9l7qovsE",
+    "duration": 102,
+    "releaseDate": {
+      "$date": "1942-11-26T00:00:00.000Z"
+    },
+    "directors": [
+      "Michael Curtiz"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Lãng Mạn",
+      "Chiến Tranh"
+    ],
+    "ageRating": "P",
+    "description": "Câu chuyện tình yêu trong bối cảnh Thế chiến thứ hai tại Morocco.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Classic",
+      "Romance",
+      "WWII"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_lawrence_arabia",
+    "title": "Lawrence Xứ Ả Rập",
+    "originalTitle": "Lawrence of Arabia",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/GGQR5V9CcS8",
+    "duration": 227,
+    "releaseDate": {
+      "$date": "1962-12-16T00:00:00.000Z"
+    },
+    "directors": [
+      "David Lean"
+    ],
+    "genres": [
+      "Phiêu Lưu",
+      "Tiểu Sử",
+      "Chính Kịch"
+    ],
+    "ageRating": "P",
+    "description": "Câu chuyện về T.E. Lawrence và cuộc nổi dậy Ả Rập chống Ottoman.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Epic",
+      "Desert",
+      "War"
+    ],
+    "isActive": true,
+    "country": "Anh",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_vertigo",
+    "title": "Chóng Mặt",
+    "originalTitle": "Vertigo",
+    "poster": "http://www.impawards.com/2025/posters/karate_kid_legends_ver2_xlg.jpg",
+    "trailer": "https://youtu.be/Z5jvQwwHQNY",
+    "duration": 128,
+    "releaseDate": {
+      "$date": "1958-05-09T00:00:00.000Z"
+    },
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "genres": [
+      "Bí Ẩn",
+      "Lãng Mạn",
+      "Giật Gân"
+    ],
+    "ageRating": "C13",
+    "description": "Một cựu thám tử bị ám ảnh bởi người phụ nữ anh được thuê theo dõi.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Hitchcock",
+      "Obsession",
+      "Classic"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_psycho",
+    "title": "Tâm Thần",
+    "originalTitle": "Psycho",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Ftrang-quynh-nhi.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/Ps8H3rg3GlQ",
+    "duration": 109,
+    "releaseDate": {
+      "$date": "1960-06-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Bí Ẩn",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Một thư ký trốn chạy tìm nơi ẩn náu tại nhà nghỉ Bates Motel.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Horror",
+      "Hitchcock",
+      "Iconic"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_godfather_2",
+    "title": "Bố Già 2",
+    "originalTitle": "The Godfather Part II",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F07-2025%2Fxi-trum-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/qJr92K_hKl0",
+    "duration": 202,
+    "releaseDate": {
+      "$date": "1974-12-20T00:00:00.000Z"
+    },
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Tội Phạm"
+    ],
+    "ageRating": "C16",
+    "description": "Câu chuyện song song về quá khứ của Vito và hiện tại của Michael Corleone.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Sequel",
+      "Mafia",
+      "Epic"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_chinatown",
+    "title": "Phố Tàu",
+    "originalTitle": "Chinatown",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-tha-ma-bat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/F5jIbMPKACE",
+    "duration": 130,
+    "releaseDate": {
+      "$date": "1974-06-20T00:00:00.000Z"
+    },
+    "directors": [
+      "Roman Polanski"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Bí Ẩn",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Thám tử tư điều tra vụ ngoại tình nhưng phát hiện âm mưu lớn hơn.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Neo-noir",
+      "Corruption",
+      "1930s"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_bridge_river_kwai",
+    "title": "Cầu Sông Kwai",
+    "originalTitle": "The Bridge on the River Kwai",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fduoi-day-ho.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/StpUdDCNKPo",
+    "duration": 161,
+    "releaseDate": {
+      "$date": "1957-10-02T00:00:00.000Z"
+    },
+    "directors": [
+      "David Lean"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Chiến Tranh"
+    ],
+    "ageRating": "C13",
+    "description": "Tù binh Anh bị ép xây cầu cho quân Nhật trong Thế chiến thứ hai.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "War",
+      "POW",
+      "Epic"
+    ],
+    "isActive": true,
+    "country": "Anh",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_the_brutalist",
+    "title": "Kiến Trúc Sư Tàn Bạo",
+    "originalTitle": "The Brutalist",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fmuon-hon-doat-xac.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/1WQV-KpSZNY",
+    "duration": 216,
+    "releaseDate": {
+      "$date": "2024-12-20T00:00:00.000Z"
+    },
+    "directors": [
+      "Brady Corbet"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Tiểu Sử"
+    ],
+    "ageRating": "C16",
+    "description": "Một kiến trúc sư tầm nhìn xa chạy trốn châu Âu hậu chiến để tìm tương lai tươi sáng ở Mỹ.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Architecture",
+      "Post-war",
+      "Immigrant"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_nickel_boys",
+    "title": "Những Cậu Bé Nickel",
+    "originalTitle": "Nickel Boys",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/Zt2Zt2Zt2Zt",
+    "duration": 140,
+    "releaseDate": {
+      "$date": "2024-12-13T00:00:00.000Z"
+    },
+    "directors": [
+      "RaMell Ross"
+    ],
+    "genres": [
+      "Chính Kịch"
+    ],
+    "ageRating": "C13",
+    "description": "Tình bạn mạnh mẽ giữa hai thanh niên Mỹ gốc Phi khi họ vượt qua thử thách ở trường cải tạo.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Friendship",
+      "Reform school",
+      "Coming-of-age"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_nosferatu_2024",
+    "title": "Nosferatu",
+    "originalTitle": "Nosferatu",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F07-2025%2Fxi-trum-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/Jm1aarhbUGU",
+    "duration": 132,
+    "releaseDate": {
+      "$date": "2024-12-25T00:00:00.000Z"
+    },
+    "directors": [
+      "Robert Eggers"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Kỳ Ảo"
+    ],
+    "ageRating": "C18",
+    "description": "Câu chuyện Gothic về nỗi ám ảnh giữa một phụ nữ trẻ và ma cà rồng đáng sợ.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Vampire",
+      "Gothic",
+      "Remake"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_anora",
+    "title": "Anora",
+    "originalTitle": "Anora",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Ftrang-quynh-nhi.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/gf2UElX4LQU",
+    "duration": 139,
+    "releaseDate": {
+      "$date": "2024-10-18T00:00:00.000Z"
+    },
+    "directors": [
+      "Sean Baker"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Hài"
+    ],
+    "ageRating": "C18",
+    "description": "Một vũ công thoát y Brooklyn gặp và cưới con trai của một ông trùm Nga.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Cannes",
+      "Palme d'Or",
+      "Brooklyn"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_love_lies_bleeding",
+    "title": "Tình Yêu Máu Me",
+    "originalTitle": "Love Lies Bleeding",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fduoi-day-ho.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/hV2P_kWGWvU",
+    "duration": 104,
+    "releaseDate": {
+      "$date": "2024-03-08T00:00:00.000Z"
+    },
+    "directors": [
+      "Rose Glass"
+    ],
+    "genres": [
+      "Giật Gân",
+      "Lãng Mạn",
+      "Tội Phạm"
+    ],
+    "ageRating": "C18",
+    "description": "Quản lý phòng gym reclusive Lou yêu Jackie, một vận động viên thể hình đầy tham vọng.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "LGBTQ+",
+      "Bodybuilding",
+      "Crime"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_longlegs",
+    "title": "Chân Dài",
+    "originalTitle": "Longlegs",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fmegan-2.0.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/djZXcYlSk_s",
+    "duration": 101,
+    "releaseDate": {
+      "$date": "2024-07-12T00:00:00.000Z"
+    },
+    "directors": [
+      "Osgood Perkins"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Giật Gân",
+      "Tội Phạm"
+    ],
+    "ageRating": "C18",
+    "description": "Đặc vụ FBI truy đuổi kẻ giết người hàng loạt và khám phá những manh mối huyền bí.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Serial killer",
+      "Occult",
+      "FBI"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_wicked",
+    "title": "Phù Thủy Xứ Oz",
+    "originalTitle": "Wicked",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2FMIKU.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/6COmYeLsz4c",
+    "duration": 160,
+    "releaseDate": {
+      "$date": "2024-11-22T00:00:00.000Z"
+    },
+    "directors": [
+      "Jon M. Chu"
+    ],
+    "genres": [
+      "Âm Nhạc",
+      "Kỳ Ảo",
+      "Chính Kịch"
+    ],
+    "ageRating": "P",
+    "description": "Câu chuyện về tình bạn giữa Elphaba và Glinda trước khi trở thành Phù thủy xấu xa và Phù thủy tốt.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Musical",
+      "Broadway",
+      "Oz"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_moana_2",
+    "title": "Moana 2",
+    "originalTitle": "Moana 2",
+    "poster": "http://www.impawards.com/2019/posters/avengers_endgame_ver2_xlg.jpg",
+    "trailer": "https://youtu.be/hDZ7y8RP5HE",
+    "duration": 100,
+    "releaseDate": {
+      "$date": "2024-11-27T00:00:00.000Z"
+    },
+    "directors": [
+      "David Derrick Jr.",
+      "Jason Hand",
+      "Dana Ledoux Miller"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Phiêu Lưu"
+    ],
+    "ageRating": "P",
+    "description": "Moana nhận được cuộc gọi bất ngờ từ tổ tiên và phải du hành đến vùng biển xa xôi của Oceania.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Disney",
+      "Ocean",
+      "Adventure"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_gladiator_2",
+    "title": "Đấu Sĩ 2",
+    "originalTitle": "Gladiator II",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fyadang-ba-mat-lat-keo.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/4rgYUipGJNo",
+    "duration": 148,
+    "releaseDate": {
+      "$date": "2024-11-15T00:00:00.000Z"
+    },
+    "directors": [
+      "Ridley Scott"
+    ],
+    "genres": [
+      "Hành Động",
+      "Chính Kịch",
+      "Lịch Sử"
+    ],
+    "ageRating": "C16",
+    "description": "Lucius, cháu trai của Marcus Aurelius, trở thành đấu sĩ sau khi quê hương bị chinh phục.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Roman Empire",
+      "Sequel",
+      "Epic"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_venom_3",
+    "title": "Venom 3: Kết Thúc",
+    "originalTitle": "Venom: The Last Dance",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F04-2025%2Fposter-tham-tu-kien.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/HyIyd9joTTc",
+    "duration": 109,
+    "releaseDate": {
+      "$date": "2024-10-25T00:00:00.000Z"
+    },
+    "directors": [
+      "Kelly Marcel"
+    ],
+    "genres": [
+      "Hành Động",
+      "Khoa Học Viễn Tưởng",
+      "Giật Gân"
+    ],
+    "ageRating": "C13",
+    "description": "Eddie Brock và Venom phải đưa ra quyết định tàn khốc sẽ kết thúc điệu nhảy cuối cùng của họ.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Sony",
+      "Symbiote",
+      "Finale"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_smile_2",
+    "title": "Nụ Cười 2",
+    "originalTitle": "Smile 2",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fholy-night-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/FLzlOe1N1YY",
+    "duration": 127,
+    "releaseDate": {
+      "$date": "2024-10-18T00:00:00.000Z"
+    },
+    "directors": [
+      "Parker Finn"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Bí Ẩn",
+      "Giật Gân"
+    ],
+    "ageRating": "C18",
+    "description": "Một ngôi sao nhạc pop toàn cầu bắt đầu trải nghiệm những sự kiện đáng sợ và không thể giải thích.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Horror",
+      "Pop star",
+      "Sequel"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_terrifier_3",
+    "title": "Kẻ Khủng Bố 3",
+    "originalTitle": "Terrifier 3",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-tha-ma-bat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/6UpkOTe3Org",
+    "duration": 125,
+    "releaseDate": {
+      "$date": "2024-10-11T00:00:00.000Z"
+    },
+    "directors": [
+      "Damien Leone"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Giật Gân"
+    ],
+    "ageRating": "C18",
+    "description": "Art the Clown trở lại để khủng bố Miles County trong đêm Giáng sinh.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Slasher",
+      "Clown",
+      "Gore"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_beetlejuice_2",
+    "title": "Beetlejuice 2",
+    "originalTitle": "Beetlejuice Beetlejuice",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fnam-muoi-poster.jpeg&w=1920&q=75",
+    "trailer": "https://youtu.be/CoZqL9N6Rx4",
+    "duration": 104,
+    "releaseDate": {
+      "$date": "2024-09-06T00:00:00.000Z"
+    },
+    "directors": [
+      "Tim Burton"
+    ],
+    "genres": [
+      "Hài",
+      "Kỳ Ảo",
+      "Kinh Dị"
+    ],
+    "ageRating": "C13",
+    "description": "Lydia Deetz trở lại nhà cũ với con gái và vô tình mở cổng đến thế giới bên kia.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Tim Burton",
+      "Sequel",
+      "Supernatural"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_deadpool_wolverine",
+    "title": "Deadpool & Wolverine",
+    "originalTitle": "Deadpool & Wolverine",
+    "poster": "http://www.impawards.com/2025/posters/karate_kid_legends_ver2_xlg.jpg",
+    "trailer": "https://youtu.be/73_1biulkYk",
+    "duration": 127,
+    "releaseDate": {
+      "$date": "2024-07-26T00:00:00.000Z"
+    },
+    "directors": [
+      "Shawn Levy"
+    ],
+    "genres": [
+      "Hành Động",
+      "Hài",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "ageRating": "C16",
+    "description": "Deadpool hợp tác với Wolverine trong một nhiệm vụ thay đổi lịch sử MCU.",
+    "subtitles": "Tiếng Việt, Tiếng Anh",
+    "status": "now-showing",
+    "tags": [
+      "Marvel",
+      "R-rated",
+      "Multiverse"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_inside_out_2",
+    "title": "Những Mảnh Ghép Cảm Xúc 2",
+    "originalTitle": "Inside Out 2",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-tha-ma-bat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/LEjhY15eCx0",
+    "duration": 96,
+    "releaseDate": {
+      "$date": "2024-06-14T00:00:00.000Z"
+    },
+    "directors": [
+      "Kelsey Mann"
+    ],
+    "genres": [
+      "Hoạt Hình",
+      "Gia Đình",
+      "Hài"
+    ],
+    "ageRating": "P",
+    "description": "Riley bước vào tuổi teen với những cảm xúc mới như Lo lắng, Ghen tị và Chán nản.",
+    "subtitles": "Lồng Tiếng Việt, Phụ Đề",
+    "status": "now-showing",
+    "tags": [
+      "Pixar",
+      "Emotions",
+      "Teen"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_bad_boys_4",
+    "title": "Bad Boys 4",
+    "originalTitle": "Bad Boys: Ride or Die",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fyadang-ba-mat-lat-keo.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/hcY4q2StGz8",
+    "duration": 115,
+    "releaseDate": {
+      "$date": "2024-06-07T00:00:00.000Z"
+    },
+    "directors": [
+      "Adil El Arbi",
+      "Bilall Fallah"
+    ],
+    "genres": [
+      "Hành Động",
+      "Hài",
+      "Tội Phạm"
+    ],
+    "ageRating": "C16",
+    "description": "Mike và Marcus phải chứng minh sự trong sạch của đội trưởng quá cố khi bị cáo buộc tham nhũng.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Action comedy",
+      "Miami",
+      "Buddy cop"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_a_quiet_place_day_one",
+    "title": "Vùng Đất Câm Lặng: Ngày Đầu Tiên",
+    "originalTitle": "A Quiet Place: Day One",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fdiep-quy-tan-nuong_2_.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/YPY7J-flzE8",
+    "duration": 99,
+    "releaseDate": {
+      "$date": "2024-06-28T00:00:00.000Z"
+    },
+    "directors": [
+      "Michael Sarnoski"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Khoa Học Viễn Tưởng",
+      "Giật Gân"
+    ],
+    "ageRating": "C13",
+    "description": "Câu chuyện về ngày đầu tiên những sinh vật ngoài hành tinh xâm lược Trái Đất.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Prequel",
+      "Aliens",
+      "Survival"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_twisters",
+    "title": "Lốc Xoáy",
+    "originalTitle": "Twisters",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fduoi-day-ho.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/Lcvjv2eKhTc",
+    "duration": 122,
+    "releaseDate": {
+      "$date": "2024-07-19T00:00:00.000Z"
+    },
+    "directors": [
+      "Lee Isaac Chung"
+    ],
+    "genres": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Giật Gân"
+    ],
+    "ageRating": "C13",
+    "description": "Một nhóm thợ săn bão cố gắng kiểm soát và nghiên cứu các cơn lốc xoáy khổng lồ.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Disaster",
+      "Tornado",
+      "Action"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_alien_romulus",
+    "title": "Alien: Romulus",
+    "originalTitle": "Alien: Romulus",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/x0XDEhP4MQs",
+    "duration": 119,
+    "releaseDate": {
+      "$date": "2024-08-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Fede Álvarez"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Khoa Học Viễn Tưởng",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Một nhóm thanh niên khám phá một trạm không gian bỏ hoang và đối mặt với sinh vật Xenomorph.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Alien franchise",
+      "Space horror",
+      "Xenomorph"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_it_ends_with_us",
+    "title": "Tất Cả Kết Thúc Với Chúng Ta",
+    "originalTitle": "It Ends with Us",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fbuon-than-ban-thanh-6-6.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/Q2GzOTt5Fp4",
+    "duration": 130,
+    "releaseDate": {
+      "$date": "2024-08-09T00:00:00.000Z"
+    },
+    "directors": [
+      "Justin Baldoni"
+    ],
+    "genres": [
+      "Chính Kịch",
+      "Lãng Mạn"
+    ],
+    "ageRating": "C13",
+    "description": "Lily Bloom phải đối mặt với quá khứ khi tình yêu đầu đời trở lại cuộc đời cô.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Romance",
+      "Drama",
+      "Book adaptation"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_trap",
+    "title": "Cạm Bẫy",
+    "originalTitle": "Trap",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fquy-rach-mat.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/W3ebXNVs_k4",
+    "duration": 105,
+    "releaseDate": {
+      "$date": "2024-08-02T00:00:00.000Z"
+    },
+    "directors": [
+      "M. Night Shyamalan"
+    ],
+    "genres": [
+      "Giật Gân",
+      "Tội Phạm",
+      "Bí Ẩn"
+    ],
+    "ageRating": "C13",
+    "description": "Một người cha và con gái tham dự concert nhưng phát hiện đó là cạm bẫy để bắt kẻ giết người hàng loạt.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Shyamalan",
+      "Thriller",
+      "Concert"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_borderlands",
+    "title": "Vùng Đất Biên Giới",
+    "originalTitle": "Borderlands",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F06-2025%2Fmegan-2.0.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/lU_NKNZljoQ",
+    "duration": 101,
+    "releaseDate": {
+      "$date": "2024-08-09T00:00:00.000Z"
+    },
+    "directors": [
+      "Eli Roth"
+    ],
+    "genres": [
+      "Hành Động",
+      "Khoa Học Viễn Tưởng",
+      "Hài"
+    ],
+    "ageRating": "C13",
+    "description": "Lilith trở về hành tinh quê hương Pandora để tìm con gái mất tích của Atlas.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Video game",
+      "Pandora",
+      "Action"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_blink_twice",
+    "title": "Chớp Mắt Hai Lần",
+    "originalTitle": "Blink Twice",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fholy-night-poster.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/3zTZ1SA10Ks",
+    "duration": 102,
+    "releaseDate": {
+      "$date": "2024-08-23T00:00:00.000Z"
+    },
+    "directors": [
+      "Zoë Kravitz"
+    ],
+    "genres": [
+      "Giật Gân",
+      "Bí Ẩn",
+      "Chính Kịch"
+    ],
+    "ageRating": "C16",
+    "description": "Frida được mời đến đảo riêng của tỷ phú Slater King nhưng mọi thứ không như vẻ ngoài.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Thriller",
+      "Island",
+      "Mystery"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_the_crow_2024",
+    "title": "Quạ Đen",
+    "originalTitle": "The Crow",
+    "poster": "http://www.impawards.com/2019/posters/avengers_endgame_ver2_xlg.jpg",
+    "trailer": "https://youtu.be/UsMITmH8dQA",
+    "duration": 111,
+    "releaseDate": {
+      "$date": "2024-08-23T00:00:00.000Z"
+    },
+    "directors": [
+      "Rupert Sanders"
+    ],
+    "genres": [
+      "Hành Động",
+      "Kỳ Ảo",
+      "Kinh Dị"
+    ],
+    "ageRating": "C18",
+    "description": "Eric Draven được hồi sinh để trả thù cho cái chết của mình và người yêu Shelly.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Reboot",
+      "Revenge",
+      "Supernatural"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_cuckoo",
+    "title": "Chim Cúc Cu",
+    "originalTitle": "Cuckoo",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Ftrang-quynh-nhi.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/WDNF-q2bkEs",
+    "duration": 102,
+    "releaseDate": {
+      "$date": "2024-08-09T00:00:00.000Z"
+    },
+    "directors": [
+      "Tilman Singer"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Bí Ẩn",
+      "Giật Gân"
+    ],
+    "ageRating": "C16",
+    "description": "Gretchen miễn cưỡng chuyển đến khu nghỉ dưỡng Alps và trải nghiệm những sự kiện kỳ lạ.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Horror",
+      "Alps",
+      "Mystery"
+    ],
+    "isActive": true,
+    "country": "Đức",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_strange_darling",
+    "title": "Người Lạ Kỳ Quái",
+    "originalTitle": "Strange Darling",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fballeriana.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/BgLahDjgFJ4",
+    "duration": 96,
+    "releaseDate": {
+      "$date": "2024-08-23T00:00:00.000Z"
+    },
+    "directors": [
+      "JT Mollner"
+    ],
+    "genres": [
+      "Giật Gân",
+      "Tội Phạm",
+      "Kinh Dị"
+    ],
+    "ageRating": "C18",
+    "description": "Một cuộc truy đuổi mèo và chuột giữa kẻ giết người hàng loạt và nạn nhân cuối cùng.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Serial killer",
+      "Cat and mouse",
+      "Thriller"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_the_substance",
+    "title": "Chất Kích Thích",
+    "originalTitle": "The Substance",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fdoraemon.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/BQdLuPz8lS0",
+    "duration": 140,
+    "releaseDate": {
+      "$date": "2024-09-20T00:00:00.000Z"
+    },
+    "directors": [
+      "Coralie Fargeat"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Khoa Học Viễn Tưởng",
+      "Giật Gân"
+    ],
+    "ageRating": "C18",
+    "description": "Elisabeth Sparkle sử dụng chất kích thích bí ẩn để tạo ra phiên bản trẻ hơn của chính mình.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "coming-soon",
+    "tags": [
+      "Body horror",
+      "Aging",
+      "Sci-fi"
+    ],
+    "isActive": true,
+    "country": "Pháp",
+    "type": "Feature"
+  },
+  {
+    "_id": "movie_speak_no_evil_2024",
+    "title": "Đừng Nói Điều Ác",
+    "originalTitle": "Speak No Evil",
+    "poster": "https://cinestar.com.vn/_next/image/?url=https%3A%2F%2Fapi-website.cinestar.com.vn%2Fmedia%2Fwysiwyg%2FPosters%2F05-2025%2Fyadang-ba-mat-lat-keo.jpg&w=1920&q=75",
+    "trailer": "https://youtu.be/uBz_2RiSWkc",
+    "duration": 110,
+    "releaseDate": {
+      "$date": "2024-09-13T00:00:00.000Z"
+    },
+    "directors": [
+      "James Watkins"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Giật Gân",
+      "Chính Kịch"
+    ],
+    "ageRating": "C16",
+    "description": "Một gia đình Mỹ được mời đến trang trại của gia đình Anh nhưng phát hiện bí mật đen tối.",
+    "subtitles": "Phụ Đề Tiếng Việt",
+    "status": "now-showing",
+    "tags": [
+      "Psychological horror",
+      "Family",
+      "Remake"
+    ],
+    "isActive": true,
+    "country": "Mỹ",
+    "type": "Feature"
+  }
+]
