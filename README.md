@@ -28,6 +28,7 @@ Kịch bản `genRoom.js` sẽ đọc tệp `cinemas.json` và dựa vào `roomC
 
 ### Bước 1.2: Tạo dữ liệu Lịch chiếu (`showtimes.jsonl`)
 Kịch bản `generateShowtimes.js` sẽ đọc `movies.json` và `rooms.jsonl` để tạo ra các suất chiếu ngẫu nhiên.
+Có thể điều chỉnh giá trị DAYS_TO_GENERATE = 3 để có được số showtime chiếu cần thiết
 
 1.  Đảm bảo bạn đã chạy thành công **Bước 1.1** và có tệp `rooms.jsonl`.
 2.  Tại terminal, chạy lệnh sau:
